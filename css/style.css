@@ -1,4 +1,9 @@
-body
+<html>
+<body>
+
+/* this is the body area of the file*/
+
+style {
   font-size: 14px;
 }
 
@@ -8,11 +13,11 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
-
+}
 
 section {
   margin: 0 auto;
-  width: 60%;
+  width 60%;
 }
 
 h1 {
@@ -20,17 +25,22 @@ h1 {
   font-size: 2em;
 }
 
-.example, h3 {
+h3 {
   padding-top: 30px;
-  text-align center
+  text-align center;
 }
+
+/* this is where my note would go*/
 
 h3 {
   font-size: 1.3em;
 }
 
-.element {
+element {
   background-color: green;
   height: 100px;
   margin 10px 0;
   width: 100%;
+}
+</body>
+</html>
